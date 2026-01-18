@@ -1,2 +1,3 @@
-echo "*.pem" >> .gitignore
-echo "*.key" >> .gitignore
+*.pem
+*.key
+*.ppk
